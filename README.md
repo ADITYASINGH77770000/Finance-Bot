@@ -1,4 +1,5 @@
 Finnovix Finance Bot
+
 Finnovix is an advanced finance bot designed for real-time stock analysis, prediction, and notifications. With capabilities in machine learning and interactive visualizations, Finnovix provides comprehensive tools to understand and forecast stock market trends.
 
 Table of Contents
